@@ -1,6 +1,6 @@
 # Hi, I'm Pratyush Bhatt
 
-MSc Cybersecurity student at the National College of Ireland, Dublin, with experience in web development, IT support and ERP systems.
+MSc Cybersecurity student at Ireland, Dublin, with experience in web development, IT support and ERP systems.
 
 I'm developing my practical skills in network analysis and web application security. This profile brings together my projects, lab findings and learning progress.
 
